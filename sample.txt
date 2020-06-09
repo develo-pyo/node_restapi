@@ -1,0 +1,4 @@
+test text file
+this is sample txt
+hello world node js
+to read file use fs module
